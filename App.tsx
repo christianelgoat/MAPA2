@@ -111,7 +111,6 @@ const App: React.FC = () => {
             </main>
 
             <footer className="text-center mt-16 py-6 border-t border-gray-500">
-                <p className="text-gray-300 font-semibold">Creado con React, TypeScript y Tailwind CSS.</p>
             </footer>
           </div>
         </div>
