@@ -50,9 +50,6 @@ const App: React.FC = () => {
               <h1 className="text-3xl md:text-4xl font-extrabold text-white tracking-tight">
                 Mapa de Empatía
               </h1>
-              <p className="mt-2 text-base text-gray-200">
-                Una visualización interactiva de la experiencia del usuario.
-              </p>
             </header>
 
             <main>
